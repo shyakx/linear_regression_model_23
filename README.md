@@ -71,3 +71,21 @@ PREDIKTA is a business prediction app that helps businesses forecast their poten
 ### Install dependencies:
 ```bash
 pip install fastapi uvicorn scikit-learn pandas
+```
+
+### Publicly available API endpoint
+https://predicka-backend.onrender.com/docs
+
+### YOUTUBE LINK FOR PRESENTATION
+https://youtu.be/d3-bpJiPCtE
+
+
+
+### BIG NOTICE 
+On the inputing datas to predict via API Endpoint we're going to use [are encoded into] these codes on bussiness_type
+0 represents Agriculture
+1 represents Manufacturer
+2 represents Retail
+
+
+
