@@ -27,7 +27,11 @@ PREDIKTA is a business prediction app that helps businesses forecast their poten
 
 ## Screenshots
 - Light Mode
+  ![image](https://github.com/user-attachments/assets/4f3890ca-b4c7-41e2-9163-b94bf0cc84b2)
+
 - Dark Mode
+  ![image](https://github.com/user-attachments/assets/72162745-0bdb-45dd-a1c4-5185359e7cc3)
+
 
 ## Technologies Used
 - **Frontend:** Flutter
